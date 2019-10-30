@@ -1,6 +1,7 @@
 # LineBot
 - Google Apps Script
-  - Business.js
+  - BusinessBot.js
+  
   - weather.js
 
 - Azure C#
